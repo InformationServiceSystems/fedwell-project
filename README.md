@@ -1,4 +1,4 @@
-# Mentalytics
+# MENTALYTICS
 
 Effective medical rehabilitation depends on good patient-therapist collaboration. But, cognitive impairments and psychological barriers affect nearly 30\% of rehabilitation patients, hindering clear communication and accurate patient assessments. Artificial Mental Models (AMMs) offer a solution by capturing patients' implicit expectations about therapy, aiding clearer communication and better treatment decisions. We demonstrate MENTALYTICS, a tool for knee rehabilitation, employing AMMs developed from fine-tuned large language models (LLaMA-2, LLaMA-3, Mistral, Phi-3). Trained via systematic data collection and an empirical user study (n=116), the proposed AMM predicts patients' expected pain and effort during exercises. The optimized LLaMA-3 (8B) model outperformed larger models, highlighting issues of overfitting and generalization. Results show that LLMs can serve as effective baseline models for AMMs, though challenges remain in domain-specific fine-tuning.
 
